@@ -6,5 +6,4 @@ btn_get_response.addEventListener("click", () => {
 
 function processResponse() {
 	alert("Message sucessfully sent!");
-);
-
+};

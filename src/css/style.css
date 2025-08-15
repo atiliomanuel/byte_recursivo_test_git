@@ -13,8 +13,8 @@ button {
 	height: 40px;
 	padding: 5px;
 }
-button: hover {
+button:hover {
 	opacity: .1;
 	transition: .3s ease-in;
+	cursor: pointer;
 }
-
